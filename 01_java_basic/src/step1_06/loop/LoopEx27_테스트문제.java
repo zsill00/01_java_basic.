@@ -37,7 +37,7 @@ public class LoopEx27_테스트문제 {
         
 		System.out.print("key값 입력 : ");
 		int key = scan.nextInt();
- 
+		// 문제풀이 
 
 		scan.close();
 	}
